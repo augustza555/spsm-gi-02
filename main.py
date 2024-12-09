@@ -6,4 +6,4 @@ if password == input_password:
     print("Correct!")
 
 else:
-    print"Wrong password vauhust"
+    print"Wrong password"
